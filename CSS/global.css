@@ -507,6 +507,21 @@ footer .copyright {
 
 /** RESPONSEVE MOBILE  */
 @media (max-width: 500px) {
+    #home {
+        height: auto;
+        padding-bottom: 3rem;
+    }
+
+    .home-content {
+        grid-template-columns: 1fr;
+        padding: 2rem 1rem;
+        text-align: center;
+    }
+
+    .content-text {
+        margin-bottom: 2rem;
+    }
+
     .home-content h1 {
         font-size: 35px;
     }
@@ -521,6 +536,8 @@ footer .copyright {
 
     .home-content img {
         margin-top: 2rem;
+        max-width: 90%;
+        margin: auto;
     }
 
     #about h2,
