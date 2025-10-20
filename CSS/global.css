@@ -139,6 +139,7 @@ nav ul li a:hover {
 }
 
 .content-text {
+    padding-top: 4rem;
     margin-bottom: 5rem;
 }
 
@@ -518,9 +519,10 @@ footer .copyright {
         text-align: center;
     }
 
-    /* .content-text {
+    .content-text {
+        padding-top: 6rem;
         margin-bottom: 2rem;
-    } */
+    }
 
     .home-content h1 {
         font-size: 35px;
