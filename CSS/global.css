@@ -513,15 +513,14 @@ footer .copyright {
     }
 
     .home-content {
-        padding-top: 4rem;
         grid-template-columns: 1fr;
         padding: 2rem 1rem;
         text-align: center;
     }
 
-    .content-text {
+    /* .content-text {
         margin-bottom: 2rem;
-    }
+    } */
 
     .home-content h1 {
         font-size: 35px;
